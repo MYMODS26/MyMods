@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"10",
+ "version":"10.01",
  "title":"Update Disponible",
  "description":"MywhasApp Oficial V10
 
