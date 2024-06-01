@@ -1,1 +1,1 @@
-{'ver1':'40', 'ver2':'00', 'ver3':'\n{Base Updated} 2.24.8.86” Play Store.\n' , 'dli':'https://bit.ly/anmodss'}
+{'ver1':'9', 'ver2':'96', 'ver3':'\n{Base Updated} 2.24.8.86” Play Store.\n' , 'dli':'https://bit.ly/anmodss'}
