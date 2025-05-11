@@ -1,6 +1,7 @@
 {
  "version":"9.05b4",
  "title":"Hoje e o dia do pagamento",
- "description":"Uma nova atualização está disponível e incluí novos emojis, opção para salvar imagens e/ou vídeos que só poderiam ser vistos uma única vez, possibilidade de filtrar apenas as mensagens envidas por um determinado contato em um grupo e outros recursos.",
+ "description":"Olá Pessoal, passando para lembrar que seu pagamento Referente ao my privado e hoje 20/05 no valor de 13'50  Por gentileza  efetue o pagamento para se manter em dia e continuar participando do grupo e recendo as atualizações gratuitamente. O não pagamento resultará em remoção imediata.
+ ASS: EQUIPE MY MODS.",
  "download":"https://picpay.me/maycon.cerqueira.jesus/13.5"
 }
